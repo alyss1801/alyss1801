@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Sang Nguyen — Data Engineering and AI Systems</title>
+  <desc id="desc">Data pipelines, data quality, and applied AI. A dark navy banner with a cyan accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0d1525"/>
+      <stop offset="1" stop-color="#132a3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="14" fill="url(#bg)"/>
+  <rect x="44" y="47" width="4" height="145" rx="2" fill="#56d4cf"/>
+  <text x="74" y="91" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="650" letter-spacing="1">SANG NGUYEN</text>
+  <text x="76" y="133" fill="#56d4cf" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">Data Engineering &amp; AI Systems</text>
+  <text x="76" y="177" fill="#a9bbce" font-family="Segoe UI, Arial, sans-serif" font-size="18">Pipelines. Data quality. Applied AI.</text>
+  <g fill="none" stroke="#56d4cf" stroke-width="2" opacity="0.28">
+    <path d="M875 80h76v40h76v40h76"/>
+    <circle cx="875" cy="80" r="8" fill="#132a3a"/>
+    <circle cx="951" cy="120" r="8" fill="#132a3a"/>
+    <circle cx="1027" cy="160" r="8" fill="#132a3a"/>
+    <circle cx="1103" cy="160" r="8" fill="#132a3a"/>
+  </g>
+</svg>
